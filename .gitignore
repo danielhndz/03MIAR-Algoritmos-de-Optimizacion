@@ -9,3 +9,6 @@
 
 # Guided activities folder
 Guided\ activities/
+
+# .ipynb_checkpoints folders
+**/.ipynb_checkpoints/
